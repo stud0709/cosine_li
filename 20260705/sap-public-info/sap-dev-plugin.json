@@ -1,0 +1,4 @@
+{
+  "name": "SAP Public Info",
+  "description": "Reads public information from SAP backend via /sap/public/info"
+}
